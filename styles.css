@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.carousel {
+      margin-top: 20px;
+    }
+    .carousel-indicators li {
+      background-color: #999;
+    }
+    .carousel-indicators .active {
+      background-color: #333;
+    }
